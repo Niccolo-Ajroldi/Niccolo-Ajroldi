@@ -20,7 +20,6 @@ Here is some of the stuff I enjoy doing:
 <a href="https://www.strava.com/athletes/58042546" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/strava-2.svg" alt="Niccolo-Ajroldi" height="30" width="40" /></a>
 
 ## Academic projects
-Here are some projects that I have done during my years at Politecnico di Milano:
 <p align="left">
   <a href="https://github.com/Niccolo-Ajroldi/Functional-BNP-clustering"><img width="400"
   src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=Functional-BNP-clustering&theme=react&bg_color=444b96&title_color=ffc342&icon_color=ffc342&hide_border=true&show_icons=false" alt="TSstudio"></a>
