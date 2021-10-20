@@ -11,11 +11,11 @@ I mainly write code with R, but I am also familiar with C++, Python and Matlab.
 
 Here is some of the stuff I enjoy doing:
 * Functional Data Analysis
-* Machine learning
+* Machine Learning
 * Nonparametric Statistics
-* Bayesian statistic 
-* Time series analysis and forecasting
-* Data visualization
+* Bayesian Statistic 
+* Time Series Analysis and Forecasting
+* Data Visualization
 
 **You can find me also on:**
 <p align="left">
