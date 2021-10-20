@@ -22,8 +22,8 @@ Here is some of the stuff I enjoy doing:
 ## Academic projects
 <p align="left">
   <a href="https://github.com/Niccolo-Ajroldi/Functional-BNP-clustering"><img width="400"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=Functional-BNP-clustering&theme=react&bg_color=dee4fc&title_color=f59f36&icon_color=3e47a8&hide_border=true&show_icons=false" alt="TSstudio"></a>
-  <a href="https://github.com/Niccolo-Ajroldi/Nonparametric-Statistics-Project"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=Nonparametric-Statistics-Project&theme=react&bg_color=dee4fc&title_color=f59f36&icon_color=3e47a8&hide_border=true&show_icons=false" alt="UKgrid"></a>
+  src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=Functional-BNP-clustering&theme=react&bg_color=4e56ad&title_color=ffe75e&icon_color=ffe75e&hide_border=true&show_icons=false" alt="TSstudio"></a>
+  <a href="https://github.com/Niccolo-Ajroldi/Nonparametric-Statistics-Project"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=Nonparametric-Statistics-Project&theme=react&bg_color=4e56ad&title_color=ffe75e&icon_color=ffe75e&hide_border=true&show_icons=false" alt="UKgrid"></a>
 </p>
 
 ## Personal projects
