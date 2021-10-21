@@ -7,7 +7,7 @@
 I am a Mathematical Engineer, I recently graduated from Politecnico di Milano, where i completed a Master of Science with specialization in Statistical Learning.
 
 I am passionate about Statistics and Machine Learning, I enjoy working with data and implementing new algorithms from scratch. <br />
-I mainly write code with R, but I am also familiar with C++, Python and Matlab.
+I mainly write code with R and C++, but I am also familiar with Python and Matlab.
 
 Here is some of the stuff I enjoy doing:
 * Functional Data Analysis
