@@ -14,6 +14,7 @@ Here is some of the stuff I enjoy doing:
 * Machine Learning
 * Nonparametric Statistics
 * Bayesian Statistic 
+* Deep Learning
 * Time Series Analysis and Forecasting
 * Data Visualization
 
