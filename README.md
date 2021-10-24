@@ -28,10 +28,14 @@ Here is some of the stuff I enjoy doing:
 <p align="left">
   <a href="https://github.com/Niccolo-Ajroldi/Functional-BNP-clustering"><img width="400"
   src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=Functional-BNP-clustering&theme=react&bg_color=444b96&title_color=ffc342&icon_color=ffc342&hide_border=true&show_icons=false" alt="TSstudio"></a>
+  
   <a href="https://github.com/Niccolo-Ajroldi/Nonparametric-Statistics-Project"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=Nonparametric-Statistics-Project&theme=react&bg_color=444b96&title_color=ffc342&icon_color=ffc342&hide_border=true&show_icons=false" alt="UKgrid"></a>
 </p>
 
 ## Personal projects
 <p align="left">
-  <a href="https://github.com/Niccolo-Ajroldi/Functional-Autoregressive-Process-2D"><img width="400"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=Functional-Autoregressive-Process-2D&theme=react&bg_color=444b96&title_color=ffc342&icon_color=ffc342&hide_border=true&show_icons=false" alt="TSstudio"></a>
+  <a href="https://github.com/Niccolo-Ajroldi/Functional-ARMA-Process"><img width="400"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=Functional-ARMA-Process-2D&theme=react&bg_color=444b96&title_color=ffc342&icon_color=ffc342&hide_border=true&show_icons=false" alt="TSstudio"></a>
+
+  <a href="https://github.com/Niccolo-Ajroldi/PCA-for-Surfaces"><img width="400"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=PCA-for-Surfaces-2D&theme=react&bg_color=444b96&title_color=ffc342&icon_color=ffc342&hide_border=true&show_icons=false" alt="TSstudio"></a>
