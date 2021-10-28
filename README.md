@@ -10,12 +10,11 @@ I am passionate about Statistics and Machine Learning, I enjoy working with data
 I mainly write code with R and C++, but I am also familiar with Python and Matlab.
 
 Here is some of the stuff I enjoy doing:
-* Functional Data Analysis
-* Machine Learning
 * Nonparametric Statistics
-* Bayesian Statistic 
-* Deep Learning
 * Time Series Analysis and Forecasting
+* Deep Learning
+* Functional Data Analysis
+* Bayesian Statistic 
 * Data Visualization
 
 **You can find me also on:**
