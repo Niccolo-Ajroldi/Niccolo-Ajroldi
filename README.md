@@ -13,8 +13,8 @@ Here is some of the stuff I enjoy doing:
 * Nonparametric Statistics
 * Time Series Analysis and Forecasting
 * Deep Learning
-* Functional Data Analysis
 * Bayesian Statistic 
+* Functional Data Analysis
 * Data Visualization
 
 **You can find me also on:**
