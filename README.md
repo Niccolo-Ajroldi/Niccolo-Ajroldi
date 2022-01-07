@@ -39,4 +39,6 @@ Here is some of the stuff I enjoy doing:
   src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=PCA-for-Surfaces&theme=react&bg_color=444b96&title_color=ffc342&icon_color=ffc342&hide_border=true&show_icons=false" alt="TSstudio"></a>
   <a href="https://github.com/Niccolo-Ajroldi/Shiny-App-Black-Sea-Forecast"><img width="400"
   src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=Shiny-App-Black-Sea-Forecast&theme=react&bg_color=444b96&title_color=ffc342&icon_color=ffc342&hide_border=true&show_icons=false" alt="TSstudio"></a>
+  <a href="https://github.com/Niccolo-Ajroldi/HackerRank-Solutions"><img width="400"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=HackerRank-Solutions&theme=react&bg_color=444b96&title_color=ffc342&icon_color=ffc342&hide_border=true&show_icons=false" alt="TSstudio"></a>
 </p>
