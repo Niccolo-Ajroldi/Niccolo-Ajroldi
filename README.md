@@ -4,7 +4,7 @@
 -->
 
 ### Hi there, welcome to my Github profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am a Mathematical Engineer, I recently graduated from Politecnico di Milano, where I completed a Master of Science in Mathematical Engineering with specialization in Statistical Learning.
+I am a Machine Learning Researcher and a Mathematical Engineer, I recently graduated from Politecnico di Milano, where I completed a Master of Science in Mathematical Engineering with specialization in Statistical Learning.
 
 I am passionate about Statistics and Machine Learning, I enjoy working with data and implementing new algorithms from scratch. <br />
 I mainly write code in Python, R and C++, but I am also familiar with Matlab. 
