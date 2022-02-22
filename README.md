@@ -10,11 +10,12 @@ I am passionate about Statistics and Machine Learning, I enjoy working with data
 I mainly write code in Python, R and C++, but I am also familiar with Matlab. 
 
 Here is some of the stuff I enjoy doing:
+* Distribution-Free Uncertainty Quantification
+* Deep Learning
+* Functional Data Analysis
 * Nonparametric Statistics
 * Time Series Analysis and Forecasting
-* Deep Learning
 * Bayesian Statistics
-* Functional Data Analysis
 * Data Visualization
 
 [Here](https://github.com/Niccolo-Ajroldi/Niccolo-Ajroldi/blob/main/Niccolo_Ajroldi_CV.pdf) you can find a copy of my CV.
