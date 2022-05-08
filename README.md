@@ -26,6 +26,8 @@ Here is some of the stuff I enjoy doing:
 <a href="https://twitter.com/n_ajroldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Niccolo-Ajroldi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/niccol%C3%B2-ajroldi-67653b196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Niccolo-Ajroldi" height="30" width="40" /></a>
 <a href="https://www.strava.com/athletes/58042546" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/strava-2.svg" alt="Niccolo-Ajroldi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12200819/niccol%c3%b2-ajroldi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Niccolo-Ajroldi" height="30" width="40" /></a>
+<a href="https://math.stackexchange.com/users/713731/niccol%c3%b2-ajroldi" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon.png?v=0ae50baa40ed" alt="Niccolo-Ajroldi" height="30" width="40" /></a>
 
 ## Academic projects 
 <p align="left">
