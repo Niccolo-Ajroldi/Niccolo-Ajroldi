@@ -4,19 +4,22 @@
 -->
 
 ### Hi there, welcome to my Github profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am a Machine Learning Researcher and a Mathematical Engineer, I recently graduated from Politecnico di Milano, where I completed a Master of Science in Mathematical Engineering with specialization in Statistical Learning.
+I am a Machine Learning Researcher and a Mathematical Engineer. 
+I am working at **Meta AI** in Fundamental AI Research (FAIR) Labs, where I am developing stochastic optimizers and implementing algorithms for adaptive tuning of hyperparameters. Previoulsly, I have been in working as a ML Researcher at **U-Care Medical**, where I developed models to forecast Acute Kidney Injury in critically ill patients.
 
-I am passionate about Statistics and Machine Learning, I enjoy working with data and implementing new algorithms from scratch. <br />
-I mainly code in Python, R and C++, but I am also familiar with Matlab. 
+I have a MSc in **Mathematical Engineering** with specialization in **Statistical Learning**, obtained at Politecnico di Milano.
 
-Here is some of the stuff I enjoy doing:
+I am passionate about Statistics and Machine Learning, I enjoy working with data and implementing new algorithms from scratch. <br /> 
+I am familiar with Python, PyTorch, R, C++, and Matlab. 
+
+Here is some of the research I enjoy doing:
+* ML Optimization
 * Distribution-Free Uncertainty Quantification
-* Deep Learning
 * Functional Data Analysis
-* Nonparametric Statistics
 * Time Series Analysis and Forecasting
-* Bayesian Statistics
 * Data Visualization
+* Nonparametric Statistics
+* Bayesian Statistics
 
 [Here](https://github.com/Niccolo-Ajroldi/Niccolo-Ajroldi/blob/main/Niccolo_Ajroldi_CV.pdf) you can find a copy of my CV.
 
@@ -29,7 +32,11 @@ Here is some of the stuff I enjoy doing:
 <a href="https://stackoverflow.com/users/12200819/niccol%c3%b2-ajroldi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Niccolo-Ajroldi" height="30" width="40" /></a>
 <a href="https://math.stackexchange.com/users/713731/niccol%c3%b2-ajroldi" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon.png?v=0ae50baa40ed" alt="Niccolo-Ajroldi" height="30" width="40" /></a>
 
-## Academic projects 
+## Publications
+**Conformal Prediction Bands for Two-Dimensional Functional Time Series** <br /> 
+Ajroldi, Diquigiovanni, Fontana, Vantini, [ArXiv](https://arxiv.org/abs/2207.13656) (2023), accepted for publication by *Computational Statistics & Data Analysis*.
+
+## Other research projects 
 <p align="left">
   <a href="https://github.com/Niccolo-Ajroldi/Functional-BNP-clustering"><img width="400"
   src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=Functional-BNP-clustering&theme=react&bg_color=444b96&title_color=ffc342&icon_color=ffc342&hide_border=true&show_icons=false" alt="TSstudio"></a>
