@@ -6,7 +6,7 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I am a Machine Learning Researcher, I am working at **Meta AI** in Fundamental AI Research (FAIR) Labs, where I am developing stochastic optimizers and implementing algorithms for adaptive tuning of hyperparameters. Previoulsly, I have been in working as a ML Researcher at **U-Care Medical**, where I developed models to forecast Acute Kidney Injury in critically ill patients.
 
-I have a MSc in **Mathematical Engineering** with specialization in **Statistical Learning**, obtained at Politecnico di Milano.
+I have a MSc in **Mathematical Engineering** & **Statistical Learning**, obtained at Politecnico di Milano.
 
 I am passionate about Statistics and Machine Learning, I enjoy working with data and implementing new algorithms from scratch. <br /> 
 I am familiar with Python, PyTorch, R, C++, and Matlab. 
