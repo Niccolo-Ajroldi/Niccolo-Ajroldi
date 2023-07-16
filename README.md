@@ -3,7 +3,7 @@
 <img src="https://github.com/Niccolo-Ajroldi/Functional-Autoregressive-Process-2D/blob/main/Yt.gif" width="500" />
 -->
 
-### Hi there, welcome to my Github profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I am a Machine Learning Researcher and a Mathematical Engineer. 
 I am working at **Meta AI** in Fundamental AI Research (FAIR) Labs, where I am developing stochastic optimizers and implementing algorithms for adaptive tuning of hyperparameters. Previoulsly, I have been in working as a ML Researcher at **U-Care Medical**, where I developed models to forecast Acute Kidney Injury in critically ill patients.
 
