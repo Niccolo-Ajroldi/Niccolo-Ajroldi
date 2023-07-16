@@ -4,8 +4,7 @@
 -->
 
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am a Machine Learning Researcher and a Mathematical Engineer. 
-I am working at **Meta AI** in Fundamental AI Research (FAIR) Labs, where I am developing stochastic optimizers and implementing algorithms for adaptive tuning of hyperparameters. Previoulsly, I have been in working as a ML Researcher at **U-Care Medical**, where I developed models to forecast Acute Kidney Injury in critically ill patients.
+I am a Machine Learning Researcher, I am working at **Meta AI** in Fundamental AI Research (FAIR) Labs, where I am developing stochastic optimizers and implementing algorithms for adaptive tuning of hyperparameters. Previoulsly, I have been in working as a ML Researcher at **U-Care Medical**, where I developed models to forecast Acute Kidney Injury in critically ill patients.
 
 I have a MSc in **Mathematical Engineering** with specialization in **Statistical Learning**, obtained at Politecnico di Milano.
 
