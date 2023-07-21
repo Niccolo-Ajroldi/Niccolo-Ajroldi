@@ -32,8 +32,8 @@ Here is some of the research I enjoy doing:
 <a href="https://math.stackexchange.com/users/713731/niccol%c3%b2-ajroldi" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon.png?v=0ae50baa40ed" alt="Niccolo-Ajroldi" height="30" width="40" /></a>
 
 ## Publications
-**Conformal Prediction Bands for Two-Dimensional Functional Time Series** <br /> 
-Ajroldi, Diquigiovanni, Fontana, Vantini, [ArXiv](https://arxiv.org/abs/2207.13656) (2023), accepted for publication by *Computational Statistics & Data Analysis*.
+[**Conformal Prediction Bands for Two-Dimensional Functional Time Series**](https://www.sciencedirect.com/science/article/pii/S0167947323001329?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=263311102&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM391842&utm_source=AC_) <br /> 
+Ajroldi, Diquigiovanni, Fontana, Vantini, *Computational Statistics & Data Analysis*, 2023.
 
 ## Other research projects 
 <p align="left">
