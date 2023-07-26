@@ -33,7 +33,12 @@ Here is some of the research I enjoy doing:
 
 ## Publications
 [**Conformal Prediction Bands for Two-Dimensional Functional Time Series**](https://www.sciencedirect.com/science/article/pii/S0167947323001329?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=263311102&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM391842&utm_source=AC_) <br /> 
-Ajroldi, Diquigiovanni, Fontana, Vantini, *Computational Statistics & Data Analysis*, 2023.
+*Ajroldi, Diquigiovanni, Fontana, Vantini, *Computational Statistics & Data Analysis*, 2023.* <br /> 
+Development of algorithms to forecast time evolving surfaces and estimate prediction uncertainty. Proposal of estimation techniques for functional autoregressive models and implementation of distribution-free uncertainty quantification tools.
+
+[**Continuous and early prediction of Acute Kidney Injury in critically ill patients**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287398) <br /> 
+*Alfieri, Ancona, Tripepi, Rubeis, Arjoldi, Finazzi, Cauda, Fagugli, (2023), on PLOS ONE.* <br /> 
+This study introduces a novel ML model to continuosly predict, Acute Kidney Injury episodes in Intensive Care Units using routinely-available data. The model is tested through a multi-centric, multi-national external validation procedure.
 
 ## Other research projects 
 <p align="left">
