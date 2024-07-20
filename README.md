@@ -25,29 +25,3 @@ We develop algorithms to forecast time evolving surfaces and estimate prediction
 [**Continuous and early prediction of Acute Kidney Injury in critically ill patients**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287398) <br /> 
 *Alfieri, Ancona, Tripepi, Rubeis, **Ajroldi**, Finazzi, Cauda, Fagugli, (2023), on PLOS ONE.* <br /> 
 We propose a novel ML model to continuosly predict Acute Kidney Injury episodes in Intensive Care Units using routinely-available data. The model is tested through a multi-centric, multi-national external validation procedure.
-
-## Other research projects 
-<p align="left">
-  <a href="https://github.com/Niccolo-Ajroldi/Functional-BNP-clustering"><img width="400"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=Functional-BNP-clustering&theme=react&bg_color=444b96&title_color=ffc342&icon_color=ffc342&hide_border=true&show_icons=false" alt="TSstudio"></a>
-  <a href="https://github.com/Niccolo-Ajroldi/Nonparametric-Statistics-Project"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=Nonparametric-Statistics-Project&theme=react&bg_color=444b96&title_color=ffc342&icon_color=ffc342&hide_border=true&show_icons=false" alt="UKgrid"></a>
-</p>
-
-
-## Personal projects
-<p align="left">
-  <a href="https://github.com/Niccolo-Ajroldi/ARMA-Surfaces"><img width="400"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=ARMA-Surfaces&theme=react&bg_color=444b96&title_color=ffc342&icon_color=ffc342&hide_border=true&show_icons=false" alt="TSstudio"></a>
-  <a href="https://github.com/Niccolo-Ajroldi/NLP-codes"><img width="400"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=NLP-codes&theme=react&bg_color=444b96&title_color=ffc342&icon_color=ffc342&hide_border=true&show_icons=false" alt="TSstudio"></a>
-  <a href="https://github.com/Niccolo-Ajroldi/PCA-for-Surfaces"><img width="400"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=PCA-for-Surfaces&theme=react&bg_color=444b96&title_color=ffc342&icon_color=ffc342&hide_border=true&show_icons=false" alt="TSstudio"></a>
-  <a href="https://github.com/Niccolo-Ajroldi/Shiny-App-Black-Sea-Forecast"><img width="400"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=Shiny-App-Black-Sea-Forecast&theme=react&bg_color=444b96&title_color=ffc342&icon_color=ffc342&hide_border=true&show_icons=false" alt="TSstudio"></a>
-  <a href="https://github.com/Niccolo-Ajroldi/HackerRank-Solutions"><img width="400"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=HackerRank-Solutions&theme=react&bg_color=444b96&title_color=ffc342&icon_color=ffc342&hide_border=true&show_icons=false" alt="TSstudio"></a>
-   <a href="https://github.com/Niccolo-Ajroldi/orcutt"><img width="400"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=Niccolo-Ajroldi&repo=orcutt&theme=react&bg_color=444b96&title_color=ffc342&icon_color=ffc342&hide_border=true&show_icons=false" alt="TSstudio"></a>
-  </p>
-
-  
