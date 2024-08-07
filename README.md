@@ -18,7 +18,7 @@ You can find me also on:
 <a href="https://math.stackexchange.com/users/713731/niccol%c3%b2-ajroldi" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/math/Img/apple-touch-icon.png?v=0ae50baa40ed" alt="Niccolo-Ajroldi" height="30" width="40" /></a>
 
 ## Highlights
-- :tada: Our submission to AlgoPerf scored third :3rd_place_medal: in the [inaugural benchmark results](https://mlcommons.org/2024/08/mlc-algoperf-benchmark-competition/)! We scored first among non-industry submissions! Checkout the MLCommons [blogpost](https://mlcommons.org/benchmarks/algorithms/) and our submissions in the official [repo](https://github.com/mlcommons/algorithms_results_v0.5/tree/main/AlgoPerf_Team_25).
+- *August 1, 2024* :tada: Our submission to AlgoPerf scored third :3rd_place_medal: in the [inaugural benchmark results](https://mlcommons.org/2024/08/mlc-algoperf-benchmark-competition/)! We scored first among non-industry submissions! Checkout the MLCommons [blogpost](https://mlcommons.org/benchmarks/algorithms/) and our submissions in the official [repo](https://github.com/mlcommons/algorithms_results_v0.5/tree/main/AlgoPerf_Team_25).
 
 ## Publications
 [**Conformal Prediction Bands for Two-Dimensional Functional Time Series**](https://www.sciencedirect.com/science/article/pii/S0167947323001329?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=263311102&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM391842&utm_source=AC_) <br /> 
