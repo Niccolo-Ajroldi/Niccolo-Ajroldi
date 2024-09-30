@@ -19,7 +19,7 @@ You can find me also on:
 
 ## Highlights
 - *August, 2024*. :tada: Our submission to AlgoPerf scored third :3rd_place_medal: in the [inaugural benchmark results](https://mlcommons.org/2024/08/mlc-algoperf-benchmark-competition/)! We scored first among non-industry submissions! Checkout the MLCommons [blogpost](https://mlcommons.org/benchmarks/algorithms/) and our submissions in the official [repo](https://github.com/mlcommons/algorithms_results_v0.5/tree/main/AlgoPerf_Team_25).
-- *July, 2024*. :open_file_folder: Published a minimal open-source [repository](https://github.com/Niccolo-Ajroldi/llm_pretrain) for pre-training Transformers on Language Modeling. It is written in basic pytorch, supports distributed training, and contains a minimal Transformer implementation, with RoPE, RMSNorm, GLU.
+- *July, 2024*. :open_file_folder: Published a minimal open-source [repository](https://github.com/Niccolo-Ajroldi/plainLM) for pre-training Transformers on Language Modeling. It is written in basic pytorch, supports distributed training, and contains a minimal Transformer implementation, with RoPE, RMSNorm, GLU.
 
 ## Publications
 [**Conformal Prediction Bands for Two-Dimensional Functional Time Series**](https://www.sciencedirect.com/science/article/pii/S0167947323001329?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=263311102&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM391842&utm_source=AC_) <br /> 
