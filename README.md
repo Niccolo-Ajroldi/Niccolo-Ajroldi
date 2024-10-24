@@ -5,9 +5,9 @@
 
 I like ML.
 
-
+<!---
 [Here](https://github.com/Niccolo-Ajroldi/Niccolo-Ajroldi/blob/main/Niccolo_Ajroldi_CV.pdf) you can find a copy of my CV.
-
+-->
 
 You can find me also on:
 <p align="left">
