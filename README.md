@@ -19,11 +19,15 @@ You can find me also on:
 -->
 
 ## Highlights
-- *October, 2024*. 📄 Our paper on [Loss Landscape Characterization of Neural Networks](https://arxiv.org/abs/2410.12455) has been accepted to NeurIPS 2024! We introduce a new function class that better captures neural network loss landscapes, ensuring convergence for several SGD-based algorithms, and showing its applicability across several Deep Learning tasks!
+- *October, 2024*. 📄 Our paper on [Loss Landscape Characterization of Neural Networks without Over-Parametrization](https://arxiv.org/abs/2410.12455) has been accepted to NeurIPS 2024!
 - *August, 2024*. :tada: Our submission to AlgoPerf scored third :3rd_place_medal: in the [inaugural benchmark results](https://mlcommons.org/2024/08/mlc-algoperf-benchmark-competition/)! We scored first among non-industry submissions! Checkout the MLCommons [blogpost](https://mlcommons.org/benchmarks/algorithms/) and our submissions in the official [repo](https://github.com/mlcommons/algorithms_results_v0.5/tree/main/AlgoPerf_Team_25).
 - *July, 2024*. :open_file_folder: Released [plainLM](https://github.com/Niccolo-Ajroldi/plainLM), a minimal open-source repository for pre-training Transformers on Language Modeling. It is written in PyTorch, supports distributed training, and contains a minimal Transformer implementation, with RoPE, RMSNorm, GLU.
 
 ## Publications
+[**Loss Landscape Characterization of Neural Networks without Over-Parametrization**](https://www.sciencedirect.com/science/article/pii/S0167947323001329?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=263311102&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM391842&utm_source=AC_) <br />
+*Islamov, **Ajroldi**, Orvieto, Lucchi*, to appear in *Advances in Neural Information Processing Systems 2024 (NeurIPS 2024)* <br /> 
+We introduce a new function class that better captures neural network loss landscapes, ensuring convergence for several SGD-based algorithms, and showing its applicability across several Deep Learning tasks!
+
 [**Conformal Prediction Bands for Two-Dimensional Functional Time Series**](https://www.sciencedirect.com/science/article/pii/S0167947323001329?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=263311102&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM391842&utm_source=AC_) <br /> 
 ***Ajroldi**, Diquigiovanni, Fontana, Vantini, *Computational Statistics & Data Analysis*, 2023.* <br /> 
 We develop algorithms to forecast time evolving surfaces and estimate prediction uncertainty. We introduce estimation techniques for functional autoregressive models and revisit distribution-free uncertainty quantification techniques for this setting.
