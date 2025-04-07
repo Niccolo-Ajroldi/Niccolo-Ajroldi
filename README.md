@@ -19,7 +19,7 @@ You can find me also on:
 -->
 
 ## Highlights
-- *March, 2025*. 📄 Our [paper](https://arxiv.org/abs/2502.06761) on Weight Averaging has been accepted at the ICLR 2025 First [Workshop](https://open-foundation-model.github.io/) on Open Science for Foundation Models!
+- *March, 2025*. 📄 Our [paper](https://arxiv.org/abs/2502.06761) on large-scale evaluations of Weight Averaging has been accepted at the ICLR 2025 First [Workshop](https://open-foundation-model.github.io/) on Open Science for Foundation Models!
 - *February, 2025*. 🗣️ Gave my first talk! Presented our work on Weight Averaging for large scale ML at the First [AlgoPerf Workshop](https://algoperf-workshop.github.io/).
 - *October, 2024*. 📄 Our paper on [Loss Landscape Characterization of Neural Networks without Over-Parametrization](https://arxiv.org/abs/2410.12455) has been accepted to NeurIPS 2024!
 - *August, 2024*. :tada: Our submission to AlgoPerf scored third :3rd_place_medal: in the [inaugural benchmark results](https://mlcommons.org/2024/08/mlc-algoperf-benchmark-competition/)! We scored first among non-industry submissions! Checkout the MLCommons [blogpost](https://mlcommons.org/benchmarks/algorithms/) and our submissions in the official [repo](https://github.com/mlcommons/algorithms_results_v0.5/tree/main/AlgoPerf_Team_25).
