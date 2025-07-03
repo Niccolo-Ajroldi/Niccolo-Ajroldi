@@ -26,7 +26,7 @@ You can find me also on:
 - *August, 2024*. :tada: Our submission to AlgoPerf scored third :3rd_place_medal: in the [inaugural benchmark results](https://mlcommons.org/2024/08/mlc-algoperf-benchmark-competition/)! We scored first among non-industry submissions! Checkout the MLCommons [blogpost](https://mlcommons.org/benchmarks/algorithms/) and our submissions in the official [repo](https://github.com/mlcommons/algorithms_results_v0.5/tree/main/AlgoPerf_Team_25).
 - *July, 2024*. :open_file_folder: Released [plainLM](https://github.com/Niccolo-Ajroldi/plainLM), a minimal open-source repository for pre-training Transformers on Language Modeling. It is written in PyTorch, supports distributed training, and contains a minimal Transformer implementation, with RoPE, RMSNorm, GLU.
 
-## Publications
+## Selected Publications
 [**When, Where and Why to Average Weights?**](https://icml.cc/virtual/2025/poster/45698) <br />
 ***Ajroldi**, Orvieto, Geiping*, to appear in *Proceedings of the 42st International Conference on Machine Learning (ICML 2025)* <br /> 
 We perform a large scale benchmarking of weight averaging techniques on AlgoPerf. 
