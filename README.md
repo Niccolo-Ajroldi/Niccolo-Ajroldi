@@ -27,8 +27,13 @@ You can find me also on:
 - *July, 2024*. :open_file_folder: Released [plainLM](https://github.com/Niccolo-Ajroldi/plainLM), a minimal open-source repository for pre-training Transformers on Language Modeling. It is written in PyTorch, supports distributed training, and contains a minimal Transformer implementation, with RoPE, RMSNorm, GLU.
 
 ## Publications
-[**Loss Landscape Characterization of Neural Networks without Over-Parametrization**](https://www.sciencedirect.com/science/article/pii/S0167947323001329?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=263311102&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM391842&utm_source=AC_) <br />
-*Islamov, **Ajroldi**, Orvieto, Lucchi*, to appear in *Advances in Neural Information Processing Systems 2024 (NeurIPS 2024)* <br /> 
+[**When, Where and Why to Average Weights?**](https://icml.cc/virtual/2025/poster/45698) <br />
+***Ajroldi**, Orvieto, Geiping*, to appear in *Proceedings of the 42st International Conference on Machine Learning (ICML 2025)* <br /> 
+We perform a large scale benchmarking of weight averaging techniques on AlgoPerf. 
+Our evaluation across seven architectures and datasets reveals that averaging significantly accelerates training and yields considerable efficiency gains across all considered workloads.
+
+[**Loss Landscape Characterization of Neural Networks without Over-Parametrization**](https://neurips.cc/virtual/2024/poster/94103) <br />
+*Islamov, **Ajroldi**, Orvieto, Lucchi*, *Advances in Neural Information Processing Systems 2024 (NeurIPS 2024)* <br /> 
 We introduce a new function class that better captures neural network loss landscapes, ensuring convergence for several SGD-based algorithms, and showing its applicability across several Deep Learning tasks!
 
 [**Conformal Prediction Bands for Two-Dimensional Functional Time Series**](https://www.sciencedirect.com/science/article/pii/S0167947323001329?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=263311102&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM391842&utm_source=AC_) <br /> 
