@@ -2,9 +2,9 @@
 <!---
 <img src="https://github.com/Niccolo-Ajroldi/Functional-Autoregressive-Process-2D/blob/main/Yt.gif" width="500" />
 -->
-
+ 
 I like ML, in particular deep learning optimization, efficency and benchmarks!   
-
+ 
 [Here](https://github.com/Niccolo-Ajroldi/Niccolo-Ajroldi/blob/main/Niccolo_Ajroldi_CV.pdf) you can find a copy of my CV.
 
 I enjoy making [cool diagrams and viz](https://github.com/Niccolo-Ajroldi/cool_diagrams/blob/main/TrilinearAttention.drawio.png).
