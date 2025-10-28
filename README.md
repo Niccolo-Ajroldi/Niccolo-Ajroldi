@@ -30,9 +30,14 @@ You can find me also on:
 
 ## Selected Publications
 [**When, Where and Why to Average Weights?**](https://icml.cc/virtual/2025/poster/45698) <br />
-***Ajroldi**, Orvieto, Geiping*, to appear in *Proceedings of the 42st International Conference on Machine Learning (ICML 2025)* <br /> 
+***Ajroldi**, Orvieto, Geiping*, *Proceedings of the 42st International Conference on Machine Learning (ICML 2025)* <br /> 
 We perform a large scale benchmarking of weight averaging techniques on AlgoPerf. 
 Our evaluation across seven architectures and datasets reveals that averaging significantly accelerates training and yields considerable efficiency gains across all considered workloads.
+
+[**Training Dynamics Impact Post-Training Quantization Robustness**](https://icml.cc/virtual/2025/poster/45698) <br />
+*Catalan-Tatjer, **Ajroldi**, Geiping*, to appear in *Proceedings of the 42st International Conference on Machine Learning (ICML 2025)* <br /> 
+We discover that quantization degradation noticeably shifts with training dynamics, and highlight the key role of the learning rate schedule in this complex interplay.
+We explore ways to mitigates quantization errors, among which weight averaging emerges as a promising alternative to LR decay.
 
 [**Loss Landscape Characterization of Neural Networks without Over-Parametrization**](https://neurips.cc/virtual/2024/poster/94103) <br />
 *Islamov, **Ajroldi**, Orvieto, Lucchi*, *Advances in Neural Information Processing Systems 2024 (NeurIPS 2024)* <br /> 
