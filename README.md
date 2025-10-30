@@ -35,7 +35,7 @@ We perform a large scale benchmarking of weight averaging techniques on AlgoPerf
 Our evaluation across seven architectures and datasets reveals that averaging significantly accelerates training and yields considerable efficiency gains across all considered workloads.
 
 [**Training Dynamics Impact Post-Training Quantization Robustness**](https://arxiv.org/abs/2510.06213) <br />
-*Catalan-Tatjer, **Ajroldi**, Geiping** <br /> 
+*Catalan-Tatjer, **Ajroldi**, Geiping* <br /> 
 We discover that quantization degradation noticeably shifts with training dynamics, and highlight the key role of the learning rate schedule in this complex interplay. We explore ways to mitigates quantization errors, among which weight averaging emerges as a promising alternative to LR decay.
 
 [**Loss Landscape Characterization of Neural Networks without Over-Parametrization**](https://neurips.cc/virtual/2024/poster/94103) <br />
