@@ -21,9 +21,10 @@ You can find me also on:
 -->
 
 ## Highlights
+- *January, 2026*. Training dynamics impact quantization robustness! We [investigate](https://arxiv.org/abs/2510.06213). how LR schedule and other hyperparameter decisions impact quantization robustness. (to appear at ICLR 2026).
 - *May, 2025*. ⭐️ Our [paper](https://openreview.net/forum?id=JN8O01IZYR) on large-scale benchmarking of Weight Averaging has been accepted at ICML 2025!
 - *March, 2025*. 📄 Our [paper](https://openreview.net/forum?id=JN8O01IZYR) on large-scale benchmarking of Weight Averaging has been accepted at the ICLR 2025 First [Workshop](https://open-foundation-model.github.io/) on Open Science for Foundation Models!
-- *February, 2025*. 🗣️ Gave my first talk! Presented our work on Weight Averaging for large scale ML at the First [AlgoPerf Workshop](https://algoperf-workshop.github.io/).
+- *February, 2025*. 🗣️ Gave my first talk! Presented our work on Weight Averaging at the First [AlgoPerf Workshop](https://algoperf-workshop.github.io/).
 - *October, 2024*. 📄 Our paper on [Loss Landscape Characterization of Neural Networks without Over-Parametrization](https://arxiv.org/abs/2410.12455) has been accepted to NeurIPS 2024!
 - *August, 2024*. :tada: Our submission to AlgoPerf scored third :3rd_place_medal: in the [inaugural benchmark results](https://mlcommons.org/2024/08/mlc-algoperf-benchmark-competition/)! We scored first among non-industry submissions! Checkout the MLCommons [blogpost](https://mlcommons.org/benchmarks/algorithms/) and our submissions in the official [repo](https://github.com/mlcommons/algorithms_results_v0.5/tree/main/AlgoPerf_Team_25).
 - *July, 2024*. :open_file_folder: Released [plainLM](https://github.com/Niccolo-Ajroldi/plainLM), a minimal open-source repository for pre-training Transformers on Language Modeling. It is written in PyTorch, supports distributed training, and contains a minimal Transformer implementation, with RoPE, RMSNorm, GLU.
