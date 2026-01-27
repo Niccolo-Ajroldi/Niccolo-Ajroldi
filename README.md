@@ -21,7 +21,7 @@ You can find me also on:
 -->
 
 ## Highlights
-- *January, 2026*. Training dynamics impact quantization robustness! We [investigate](https://arxiv.org/abs/2510.06213). how LR schedule and other hyperparameter decisions impact quantization robustness. (to appear at ICLR 2026).
+- *January, 2026*. Training dynamics impact quantization robustness! We [investigate](https://arxiv.org/abs/2510.06213). how LR schedule and other hyperparameter decisions impact quantization robustness (to appear at ICLR 2026).
 - *May, 2025*. ⭐️ Our [paper](https://openreview.net/forum?id=JN8O01IZYR) on large-scale benchmarking of Weight Averaging has been accepted at ICML 2025!
 - *March, 2025*. 📄 Our [paper](https://openreview.net/forum?id=JN8O01IZYR) on large-scale benchmarking of Weight Averaging has been accepted at the ICLR 2025 First [Workshop](https://open-foundation-model.github.io/) on Open Science for Foundation Models!
 - *February, 2025*. 🗣️ Gave my first talk! Presented our work on Weight Averaging at the First [AlgoPerf Workshop](https://algoperf-workshop.github.io/).
