@@ -9,7 +9,6 @@ I like ML, in particular deep learning optimization, efficency and benchmarks!
 
 I enjoy making [cool diagrams and visualizations](https://github.com/Niccolo-Ajroldi/cool_diagrams/blob/main/TrilinearAttention.drawio.png).
 
-You can find me also on:
 <p align="left">
 <a href="https://twitter.com/n_ajroldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Niccolo-Ajroldi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/niccol%C3%B2-ajroldi-67653b196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Niccolo-Ajroldi" height="30" width="40" /></a>
