@@ -22,6 +22,7 @@ I enjoy making [cool diagrams and visualizations](https://github.com/Niccolo-Ajr
 ## Highlights
 - *February, 2026*. We just released [AlgoPerf v1.0.1](https://github.com/mlcommons/algorithmic-efficiency/releases/tag/v1.0.1)! The benchmark now includes an autoregressive language model.
 - *January, 2026*. Training dynamics impact quantization robustness! We [investigate](https://arxiv.org/abs/2510.06213). how LR schedule and other hyperparameter decisions impact quantization robustness (to appear at ICLR 2026).
+- *September, 2025*. New AlgoPerf [release](https://github.com/mlcommons/algorithmic-efficiency/releases/tag/v0.6.0). Major API update and bug fixes.
 - *May, 2025*. ⭐️ Our [paper](https://openreview.net/forum?id=JN8O01IZYR) on large-scale benchmarking of Weight Averaging has been accepted at ICML 2025!
 - *March, 2025*. 📄 Our [paper](https://openreview.net/forum?id=JN8O01IZYR) on large-scale benchmarking of Weight Averaging has been accepted at the ICLR 2025 First [Workshop](https://open-foundation-model.github.io/) on Open Science for Foundation Models!
 - *February, 2025*. 🗣️ Gave my first talk! Presented our work on Weight Averaging at the First [AlgoPerf Workshop](https://algoperf-workshop.github.io/).
